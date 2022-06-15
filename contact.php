@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
+
  <head>
   <title>William Anderson IT161 Portal Website</title>
   <meta name="robots" content="noindex,nofollow" />
