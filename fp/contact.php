@@ -13,7 +13,7 @@
 
  <body>
      <header>
-     <h1>Elagante Shuttle Service</h1><h1>Contact page</1>
+     <h1>Elagante Shuttle Service</h1><h1>Contact page</h1>
      <nav class="topnav" id="myTopnav">
      <a href="index.html" class="active">Welcome</a>
        <a href="rates.html">Rates</a>
